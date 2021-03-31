@@ -10,7 +10,7 @@ body{
 .wrapper__content{
 	margin: 0 auto;
 	width: 1920px;
-	background: url(./img/hero.jpg) center top no-repeat, url(./img/bottom.jpg) center bottom no-repeat;
+	background: url(img/hero.jpg) center top no-repeat, url(img/bottom.jpg) center bottom no-repeat;
 }
 a{
 	color: inherit;
@@ -89,10 +89,10 @@ h1, h2, h3, h4, h5, h6{
 .route{
 	position: relative;
 	width: 511px;
-	height: 333px;
+	height: 330px;
    margin-bottom: 246px;
 	left: 389px;
-	line-height: 1.8;
+	line-height: 1.9;
 }
 .route__title{
 	font-size: 72px;
