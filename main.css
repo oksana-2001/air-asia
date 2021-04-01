@@ -10,6 +10,7 @@ body{
 .wrapper__content{
 	margin: 0 auto;
 	width: 1920px;
+	height: 2930px;
 	background: url(img/hero.png) center top no-repeat, url(img/bootom.png) center bottom no-repeat;
 }
 a{
@@ -69,13 +70,14 @@ h1, h2, h3, h4, h5, h6{
 .contacts{
 	position: absolute;
 	top: 26px;
-    left: 1448px;
+    left: 1340px;
 	font-style: normal;
 	text-align: right;
 }
 .contacts__phone{
 	text-decoration: none;
 	font-size: 26px;
+	line-height: 20px;
 }
 .contacts__work{
 	font-size: 13px;
@@ -144,7 +146,7 @@ h1, h2, h3, h4, h5, h6{
 	display: block;
 	width: 28px;
 	height: 28px;
-	background-image: url(./img/flame.png);
+	background-image: url(img/flame.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	top: 0;
@@ -390,4 +392,10 @@ hr{
 }
 .social__item:last-child{
 	margin-right: 0;
+	
+}
+.contacts__text{
+	font-size: 11px;
+	color: #9A9A9A;
+	line-height: 20px;
 }
