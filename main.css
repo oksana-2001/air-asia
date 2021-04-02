@@ -350,14 +350,23 @@ h6 {
   line-height: 27px;
   z-index: 4;
 }
-.footer-container {
-  position: absolute;
-  width: 1800px;
+.footer__container {
 
-  border: 1px solid #ffffff;
+  max-width: 1142px;
+  border: 0.1px solid #ffffff;
+  padding-top: 0.1px;
+  margin-left: 390px;
+
+  
+  
+
+  
 }
 .footer {
   position: relative;
+  min-height: 146px;
+ 
+  
 }
 
 .social__list {
