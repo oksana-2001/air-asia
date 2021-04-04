@@ -1,0 +1,11 @@
+.footer {
+	display: flex;
+	min-height: 146px;
+  }
+
+  .footer__container {
+	border: 0.1px solid #ffffff;
+	height: 0;
+	margin: 0 390px;
+  
+  }

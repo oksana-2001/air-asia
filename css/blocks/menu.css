@@ -1,0 +1,17 @@
+.menu {
+	margin-left: 79px;
+  }
+.memu__item {
+	display: inline-block;
+	cursor: pointer;
+  }
+  .memu__item:last-child {
+	margin-right: 0;
+  }
+  .menu__link {
+	font-size: 14px;
+	text-decoration: none;
+  }
+  .menu__link:hover {
+	color: lightskyblue;
+  }
